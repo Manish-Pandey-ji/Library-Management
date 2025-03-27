@@ -27,16 +27,15 @@ Download or clone the repository
 Compile the Java file:
 
 
-javac LibraryManagementSystem.java
+     javac LibraryManagementSystem.java
 # Usage
 Run the program with:
 
 
-java LibraryManagementSystem
+    java LibraryManagementSystem
 The system will present a menu with the following options:
 
-
-    Library Management System 
+  Library Management System 
 1. Add a Book
 2. View All Books
 3. Search for a Book
